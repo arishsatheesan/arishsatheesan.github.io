@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arish Sateesan"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Arish"
 description              : &description "personal description"
