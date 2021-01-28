@@ -14,4 +14,4 @@ He obtained his Bachelor’s degree in Electronics & Communication Engineering f
 
 His research interests and publications lie in the fields of FPGA based system design, Network security, and Convolutional Neural Networks on resource-constrained devices.
 
-[KU Leuven webpage](https://www.esat.kuleuven.be/cosic/people/arish-sateesan/)
+[My KU Leuven webpage](https://www.esat.kuleuven.be/cosic/people/arish-sateesan/)
