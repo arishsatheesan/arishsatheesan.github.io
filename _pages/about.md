@@ -21,7 +21,7 @@ My research interests and publications lie in the fields of FPGA based system de
 <a href="https://www.esat.kuleuven.be/cosic/people/arish-sateesan/" target="_blank">My KU Leuven webpage</a> -->
 <!-- </p> -->
 
-<p Contact </p> <br>
+<a Contact </a> <br>
 
 <div itemscope itemtype="https://schema.org/Person">
   <span itemprop="name">Arish Sateesan</span>
@@ -36,11 +36,9 @@ My research interests and publications lie in the fields of FPGA based system de
     <span itemprop="postalCode">3590</span>
   </div>
   <span itemprop="telephone"></span>
-  <a href="mailto:arish.sateesan@kuleuven.be" itemprop="email">
-    Mail me</a>
+  <a href="mailto:arish.sateesan@kuleuven.be" itemprop="email"> </a>
 
-  My home page:
-  <a href="https://www.esat.kuleuven.be/cosic/people/arish-sateesan/" itemprop="url"></a>
+  <a href="https://www.esat.kuleuven.be/cosic/people/arish-sateesan/" itemprop="url"> My home page</a>
 
 <!--   Graduate students:
   <a href="http://www.xyz.edu/students/alicejones.html" itemprop="colleague">
