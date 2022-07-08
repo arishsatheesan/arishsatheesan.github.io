@@ -19,16 +19,17 @@ My research interests and publications lie in the fields of FPGA based system de
 <!-- [My KU Leuven webpage](https://www.esat.kuleuven.be/cosic/people/arish-sateesan/) -->
 <!-- <p style="font-size:100%;text-align:justify;font-family:Times New Roman;">
 <a href="https://www.esat.kuleuven.be/cosic/people/arish-sateesan/" target="_blank">My KU Leuven webpage</a> -->
-</p>
+<!-- </p> -->
 
+<p Contact </p> <br>
 
 <div itemscope itemtype="https://schema.org/Person">
   <span itemprop="name">Arish Sateesan</span>
 
-  <span itemprop="jobTitle">Doctoral researcher</span>
+<!--   <span itemprop="jobTitle">Doctoral researcher</span> -->
   <div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
     <span itemprop="streetAddress">
-      Wetenschapspark 27 - box 15152
+      Wetenschapspark 27 - box 15152,
     </span>
     <span itemprop="addressLocality">Diepenbeek</span>,
     <span itemprop="addressRegion"></span>
