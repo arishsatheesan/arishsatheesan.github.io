@@ -21,7 +21,9 @@ My research interests and publications lie in the fields of FPGA based system de
 <a href="https://www.esat.kuleuven.be/cosic/people/arish-sateesan/" target="_blank">My KU Leuven webpage</a> -->
 <!-- </p> -->
 
+<p style="font-size:100%;text-align:justify;font-family:Times New Roman;">
 <a Contact </a> <br>
+</p>
 
 <div itemscope itemtype="https://schema.org/Person">
   <span itemprop="name">Arish Sateesan</span>
