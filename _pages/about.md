@@ -20,3 +20,30 @@ My research interests and publications lie in the fields of FPGA based system de
 <p style="font-size:100%;text-align:justify;font-family:Times New Roman;">
 <a href="https://www.esat.kuleuven.be/cosic/people/arish-sateesan/" target="_blank">My KU Leuven webpage</a>
 </p>
+
+
+<div itemscope itemtype="https://schema.org/Person">
+  <span itemprop="name">Arish Sateesan</span>
+
+  <span itemprop="jobTitle">Doctoral researcher</span>
+  <div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+    <span itemprop="streetAddress">
+      Wetenschapspark 27 - box 15152
+    </span>
+    <span itemprop="addressLocality">Diepenbeek</span>,
+    <span itemprop="addressRegion"></span>
+    <span itemprop="postalCode">3590</span>
+  </div>
+  <span itemprop="telephone"></span>
+  <a href="mailto:arish.sateesan@kuleuven.be" itemprop="email">
+    arish.sateesan@kuleuven.be</a>
+
+  Jane's home page:
+  <a href="" itemprop="url"></a>
+
+<!--   Graduate students:
+  <a href="http://www.xyz.edu/students/alicejones.html" itemprop="colleague">
+    Alice Jones</a>
+  <a href="http://www.xyz.edu/students/bobsmith.html" itemprop="colleague">
+    Bob Smith</a> -->
+</div>
