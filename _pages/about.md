@@ -22,7 +22,7 @@ My research interests and publications lie in the fields of FPGA based system de
 <!-- </p> -->
 
 <p style="font-size:100%;text-align:justify;font-family:Times New Roman;">
-<a Contact </a> <br>
+Contact<br>
 </p>
 
 <div itemscope itemtype="https://schema.org/Person">
