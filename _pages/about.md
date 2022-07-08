@@ -17,8 +17,8 @@ I obtained my Bachelor’s degree in Electronics & Communication Engineering fro
 My research interests and publications lie in the fields of FPGA based system design, Network security, and Convolutional Neural Networks on resource-constrained devices.
 </p>
 <!-- [My KU Leuven webpage](https://www.esat.kuleuven.be/cosic/people/arish-sateesan/) -->
-<p style="font-size:100%;text-align:justify;font-family:Times New Roman;">
-<a href="https://www.esat.kuleuven.be/cosic/people/arish-sateesan/" target="_blank">My KU Leuven webpage</a>
+<!-- <p style="font-size:100%;text-align:justify;font-family:Times New Roman;">
+<a href="https://www.esat.kuleuven.be/cosic/people/arish-sateesan/" target="_blank">My KU Leuven webpage</a> -->
 </p>
 
 
@@ -38,8 +38,8 @@ My research interests and publications lie in the fields of FPGA based system de
   <a href="mailto:arish.sateesan@kuleuven.be" itemprop="email">
     arish.sateesan@kuleuven.be</a>
 
-  Jane's home page:
-  <a href="" itemprop="url"></a>
+  My home page:
+  <a href="https://www.esat.kuleuven.be/cosic/people/arish-sateesan/" itemprop="url"></a>
 
 <!--   Graduate students:
   <a href="http://www.xyz.edu/students/alicejones.html" itemprop="colleague">
