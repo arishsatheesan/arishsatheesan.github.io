@@ -36,7 +36,7 @@ My research interests and publications lie in the fields of FPGA based system de
   </div>
   <span itemprop="telephone"></span>
   <a href="mailto:arish.sateesan@kuleuven.be" itemprop="email">
-    arish.sateesan@kuleuven.be</a>
+    Mail me</a>
 
   My home page:
   <a href="https://www.esat.kuleuven.be/cosic/people/arish-sateesan/" itemprop="url"></a>
