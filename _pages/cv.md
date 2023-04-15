@@ -11,23 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D (Ongoing) in FPGA design for network security, COSIC-ES&S, KU Leuven, Belgium , 2019-2023 (expected)
+* Master of Technology in Embedded system design, National Institute of Technology Kurukshetra, India, 2013-2015
+* Bachelor of Technology in Electronics & communication engineering, Cochin Universiy of Science and Technology, India, 2005-2009
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2018 - April 2019: Research Associate
+  * Nanyang Technological University, Singapore
+  * Project title: Automatic Design Synthesis and Optimization of Machine Learning Algorithms on Resource Constrained devices
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January 2016 - May 2018: Business Intelligence Application Developer
+  * IBM, India
+  * Project title: GSMRT
+
+* May 2011 - May 2012: Systems Engineer
+  * Gemtech Solutions Pvt. Ltd, India 
+
+* January 2010 - April 2011: Lecturer
+  * College of Engineering Kidangoor, India
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -56,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
