@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biography"
+title: "Arish Sateesan"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -42,9 +42,3 @@ Contact:<br>
 
   <a href="https://www.esat.kuleuven.be/cosic/people/arish-sateesan/" itemprop="url"> My home page</a>
 
-<!--   Graduate students:
-  <a href="http://www.xyz.edu/students/alicejones.html" itemprop="colleague">
-    Alice Jones</a>
-  <a href="http://www.xyz.edu/students/bobsmith.html" itemprop="colleague">
-    Bob Smith</a> -->
-</div>
