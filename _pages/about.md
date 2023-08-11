@@ -14,7 +14,7 @@ I am a doctoral researcher and a member of COSIC (ES&S Subgroup) at KU Leuven un
 I obtained my Bachelor’s degree in Electronics & Communication Engineering from Cochin University of Science and Technology, India in 2009. I worked as a Lecturer at College of Engineering Kidangoor during 2010-2011 and later joined Gemtech Solutions Pvt Ltd as Systems Engineer in 2011 before commencing his Master’s degree in 2013. I obtained my Master’s degree in Embedded System Design from the National Institute of Technology Kurukshetra, India. After completion of my Master’s, I joined IBM as Business Intelligence Application Developer in 2015. Later I moved into academic research at Nanyang Technological University Singapore as Research Associate (Deep Learning and Embedded Systems) in 2018 prior to joining KU Leuven in 2019.
 </p>
 <p style="font-size:100%;text-align:justify;font-family:Times New Roman;">
-My research interests and publications lie in the fields of FPGA based system design, Network security, and Convolutional Neural Networks on resource-constrained devices.
+My research interests and publications lie in the fields of FPGA based system design, Network security, Probabilistic data structures, Approximate computing, and Convolutional Neural Networks on resource-constrained devices.
 </p>
 <!-- [My KU Leuven webpage](https://www.esat.kuleuven.be/cosic/people/arish-sateesan/) -->
 <!-- <p style="font-size:100%;text-align:justify;font-family:Times New Roman;">
