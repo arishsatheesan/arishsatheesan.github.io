@@ -35,11 +35,11 @@ Work address:<br>
 <!--   <span itemprop="jobTitle">Doctoral researcher</span> -->
   <div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
     <span itemprop="streetAddress">
-      Wetenschapspark 27 - box 15152,
+      Kackertstrasse 9
     </span>
-    <span itemprop="addressLocality">Diepenbeek</span>,
-    <span itemprop="addressRegion"></span>
-    <span itemprop="postalCode">3590</span>
+    <span itemprop="postalCode">52072</span>
+    <span itemprop="addressLocality">Aachen</span>,
+    <span itemprop="addressRegion">Germany</span>
   </div>
   <span itemprop="telephone"></span>
   <a href="mailto:arish.sateesan@kuleuven.be" itemprop="email"> </a>
