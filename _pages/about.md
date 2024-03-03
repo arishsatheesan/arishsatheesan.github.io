@@ -35,7 +35,7 @@ Work address:<br>
 <!--   <span itemprop="jobTitle">Doctoral researcher</span> -->
   <div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
     <span itemprop="streetAddress">
-      Kackertstrasse 9
+      Kackertstrasse 9,
     </span>
     <span itemprop="postalCode">52072</span>
     <span itemprop="addressLocality">Aachen</span>,
