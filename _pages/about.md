@@ -30,7 +30,7 @@ Work address:<br>
 </p>
 <!--
 <div itemscope itemtype="https://schema.org/Person">
-  <span itemprop="name">Arish Sateesan</span>
+  <span itemprop="name">Arish Sateesan</span> -->
 
 <!--   <span itemprop="jobTitle">Doctoral researcher</span> -->
   <div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
@@ -44,6 +44,5 @@ Work address:<br>
   <span itemprop="telephone"></span>
   <a href="mailto:arish.sateesan@kuleuven.be" itemprop="email"> </a>
 
-  <a href="https://www.esat.kuleuven.be/cosic/people/arish-sateesan/" itemprop="url"> My home page</a>
-  -->
+<!--  <a href="https://www.esat.kuleuven.be/cosic/people/arish-sateesan/" itemprop="url"> My home page</a> -->
 
