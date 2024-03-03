@@ -11,12 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D (Ongoing) in FPGA design for network security, COSIC-ES&S, KU Leuven, Belgium , 2019-2023 (expected)
-* Master of Technology in Embedded system design, National Institute of Technology Kurukshetra, India, 2013-2015
-* Bachelor of Technology in Electronics & communication engineering, Cochin Universiy of Science and Technology, India, 2005-2009
+* Ph.D. in Electrical engineering, COSIC-ES&S, KU Leuven, Belgium , 2019-2023. Thesis title: FPGA design for large flow detection in high-speed networks.
+* Master of Technology in Embedded system design, National Institute of Technology Kurukshetra, India, 2013-2015.
+* Bachelor of Technology in Electronics & communication engineering, Cochin Universiy of Science and Technology, India, 2005-2009.
 
 Work experience
 ======
+* March 2024 - : Postdoctoral Researcher
+  * RWTH Aachen University, Germany
+  * Research area: Experimental Platforms for 6G MAC Prototyping
 * June 2018 - April 2019: Research Associate
   * Nanyang Technological University, Singapore
   * Project title: Automatic Design Synthesis and Optimization of Machine Learning Algorithms on Resource Constrained devices
