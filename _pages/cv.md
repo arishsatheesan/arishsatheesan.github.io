@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Electrical engineering, COSIC-ES&S, KU Leuven, Belgium , 2019-2023. Thesis title: FPGA design for large flow detection in high-speed networks.
+* Ph.D. in Electrical engineering, COSIC-ES&S, KU Leuven, Belgium , 2019-2023.
+  * Thesis title: FPGA design for large flow detection in high-speed networks.
 * Master of Technology in Embedded system design, National Institute of Technology Kurukshetra, India, 2013-2015.
 * Bachelor of Technology in Electronics & communication engineering, Cochin Universiy of Science and Technology, India, 2005-2009.
 
