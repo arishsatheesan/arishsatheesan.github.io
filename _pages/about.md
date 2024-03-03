@@ -28,7 +28,7 @@ My research interests and publications lie in the fields of FPGA-based system de
 <p style="font-size:100%;text-align:justify;font-family:Times New Roman;">
 Work address:<br>
 </p>
-
+<!--
 <div itemscope itemtype="https://schema.org/Person">
   <span itemprop="name">Arish Sateesan</span>
 
@@ -45,4 +45,5 @@ Work address:<br>
   <a href="mailto:arish.sateesan@kuleuven.be" itemprop="email"> </a>
 
   <a href="https://www.esat.kuleuven.be/cosic/people/arish-sateesan/" itemprop="url"> My home page</a>
+  -->
 
