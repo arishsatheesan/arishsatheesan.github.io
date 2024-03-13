@@ -34,7 +34,7 @@ Work address:<br>
    <span itemprop="jobTitle">Postdoctoral researcher</span>
   <div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
     <span itemprop="streetAddress">
-      Kackertstrasse 9,
+      C046, iNETS, Kackertstrasse 9,
     </span>
     <span itemprop="postalCode">52072</span>
     <span itemprop="addressLocality">Aachen</span>,
