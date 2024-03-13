@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Arish Sateesan"
   avatar           : "IMG_arish.jpg"
-  bio              : "Doctoral Researcher at KU Leuven"
-  location         : "KU Leuven, Belgium"
-  #employer         :
+  bio              : "Postdoctoral Researcher at RWTH Aachen University"
+  location         : "Aachen, Germany"
+  employer         : "RWTH Aachen University"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=bgypT7gAAAAJ&hl=en"
   #email            :
@@ -109,7 +109,7 @@ author:
   #stackoverflow    : # http://stackoverflow.com/users/123456/username
   #steam            :
   #tumblr           :
-  twitter          : "ArishSatheesan"
+  #twitter          : "ArishSateesan"
   #vine             :
   #weibo            :
   #xing             :
