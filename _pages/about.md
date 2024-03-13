@@ -32,7 +32,7 @@ Work address:<br>
 <div itemscope itemtype="https://schema.org/Person">
   <p style="font-size:100%;text-align:justify;font-family:Times New Roman;">
   <span itemprop="name">Arish Sateesan<br></span> 
-   <span itemprop="jobTitle">Postdoctoral researcher</span></p>
+   <span itemprop="jobTitle">Postdoctoral researcher</span>
   <div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
     <span itemprop="streetAddress">
       C046, iNETS, Kackertstrasse 9,
@@ -40,7 +40,7 @@ Work address:<br>
     <span itemprop="postalCode">52072</span>
     <span itemprop="addressLocality">Aachen</span>,
     <span itemprop="addressRegion">Germany</span>
-  </div>
+  </div></p>
   <span itemprop="telephone"></span>
   <a href="mailto:arish.sateesan@kuleuven.be" itemprop="email"> </a>
 <!--  <a href="https://www.esat.kuleuven.be/cosic/people/arish-sateesan/" itemprop="url"> My home page</a> -->
