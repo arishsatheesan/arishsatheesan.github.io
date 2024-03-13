@@ -30,7 +30,7 @@ Work address:<br>
 </p>
 
 <div itemscope itemtype="https://schema.org/Person">
-  <span itemprop="name">Arish Sateesan\br</span> 
+  <span itemprop="name">Arish Sateesan<br></span> 
    <span itemprop="jobTitle">Postdoctoral researcher</span>
   <div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
     <span itemprop="streetAddress">
