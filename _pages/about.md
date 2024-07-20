@@ -9,7 +9,7 @@ redirect_from:
 ---
 <p style="font-size:100%;text-align:justify;font-family:Times New Roman;">
 
-I currently work as a Postdoctoral Researcher at iNETS (Institute for Networked Systems), RWTH Aachen University, Germany. My research centers upon developing experimental platforms for 6G MAC prototyping on reconfigurable hardware.
+I currently work as a Postdoctoral Researcher at iNETS (Institute for Networked Systems), RWTH Aachen University, Germany. My research centers upon AI-aided beam management for 6G networks on reconfigurable hardware.
 </p>
 <p style="font-size:100%;text-align:justify;font-family:Times New Roman;">
 I obtained my Ph.D. in Electrical Engineering at COSIC (ES&S Subgroup), KU Leuven, Belgium, under the supervision of Prof. Nele Mentens. During my Ph.D., I worked on the field of Network Security, specifically in the Acceleration of Large Flow Detection algorithms using configurable hardware (FPGA), in collaboration with the Network Security Group, ETH Zurich, on the joint research project ESCALATE. 
