@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-body {
-    background-image: url('https://github.com/arishsatheesan/arishsatheesan.github.io/tree/master/_pages/bg.png');
-    background-size: cover; /* This will cover the entire page */
-    background-repeat: no-repeat;
-    background-attachment: fixed; /* Makes the background stay in place while scrolling */
-}
-
 <p style="font-size:100%;text-align:justify;font-family:Times New Roman;">
 
 I currently work as a Postdoctoral Researcher at iNETS (Institute for Networked Systems), RWTH Aachen University, Germany. My research centers upon AI-aided beam management on reconfigurable hardware for 6G networks.
