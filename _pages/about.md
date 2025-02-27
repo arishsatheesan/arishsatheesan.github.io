@@ -1,4 +1,3 @@
-
 ---
 permalink: /
 title: "Biography"
@@ -8,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 
 <p style="font-size:100%;text-align:justify;font-family:Times New Roman;">
 
