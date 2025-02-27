@@ -1,3 +1,12 @@
+ <head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Postdoctoral Researcher at RWTH Aachen University specializing in AI-aided beam management for 6G networks.">
+    <meta name="keywords" content="Arish Sateesan, Arish Satheesan, AI, Beam Management, 6G Networks, FPGA, Network Security">
+    <meta name="author" content="Arish Sateesan">
+    <!-- Existing head content -->
+  </head>
+
+
 ---
 permalink: /
 title: "Biography"
@@ -7,6 +16,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 
 <p style="font-size:100%;text-align:justify;font-family:Times New Roman;">
 
