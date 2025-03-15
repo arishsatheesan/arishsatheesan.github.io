@@ -21,7 +21,7 @@ I hold a Bachelor’s degree in Electronics & Communication Engineering from Coc
 
 ## 📢 Collaborate with Me
 
-If you're interested in working together on a research project, feel free to reach out!
+If you're interested in working together on a research, feel free to reach out!
 
 📧 [Send Me an Email!](mailto:arish.sateesan@rwth-aachen.de)  
 
