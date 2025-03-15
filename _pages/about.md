@@ -23,8 +23,7 @@ I hold a Bachelor’s degree in Electronics & Communication Engineering from Coc
 
 If you're interested in working together on a research project, feel free to reach out!
 
-📧 Email: [your-email@example.com](mailto:arish.sateesan[at]rwth-aachen[dot]de)  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+📧 [Send Me an Email!](mailto:arish.sateesan@rwth-aachen.de)  
 
 
 <!-- <p style="font-size:100%;text-align:justify;font-family:Times New Roman;">
