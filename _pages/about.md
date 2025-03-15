@@ -18,6 +18,15 @@ I earned my Ph.D. in Electrical Engineering from KU Leuven, Belgium, at the COSI
 I hold a Bachelor’s degree in Electronics & Communication Engineering from Cochin University of Science and Technology, India. Following graduation, I worked as a Lecturer at the College of Engineering Kidangoor before transitioning to industry as a Systems Engineer at Gemtech Solutions Pvt Ltd. Later, I obtained my Master’s degree in Embedded System Design at the National Institute of Technology Kurukshetra, India. Afterward, I joined IBM as a Business Intelligence Application Developer. In 2018, I moved into academic research as a Research Associate at the Hardware and Embedded Systems Lab, Nanyang Technological University, Singapore, before commencing my Ph.D. at KU Leuven in 2019.
   
 </p>
+
+## 📢 Collaborate with Me
+
+If you're interested in working together on a research project, feel free to reach out!
+
+📧 Email: [your-email@example.com](mailto:arish.sateesan[at]rwth-aachen[dot]de)  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+
+
 <!-- <p style="font-size:100%;text-align:justify;font-family:Times New Roman;">
 
 </p> -->
