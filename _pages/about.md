@@ -13,14 +13,26 @@ redirect_from:
 I currently work as a Postdoctoral Researcher at iNETS (Institute for Networked Systems), RWTH Aachen University, Germany. My research centers upon AI-aided beam management on reconfigurable hardware for 6G networks.
 </p>
 <p style="font-size:100%;text-align:justify;font-family:Times New Roman;">
-I obtained my Ph.D. in Electrical Engineering at COSIC (ES&S Subgroup), KU Leuven, Belgium, under the supervision of Prof. Nele Mentens. During my Ph.D., I worked on the field of Network Security, specifically in the Acceleration of Large Flow Detection algorithms using configurable hardware (FPGA), in collaboration with the Network Security Group, ETH Zurich, on the joint research project ESCALATE. 
+I am currently a Postdoctoral Researcher at RWTH Aachen University, Germany. My research focuses on AI-aided beam management targeting edge platforms on reconfigurable hardware for 6G networks, bridging the gap between machine learning and real-world deployment for next-generation wireless communication systems.
 </p>
 <p style="font-size:100%;text-align:justify;font-family:Times New Roman;">
-I obtained my Bachelor’s degree in Electronics & Communication Engineering from Cochin University of Science and Technology, India in 2009. I worked as a Lecturer at the College of Engineering Kidangoor during 2010-2011 and later joined Gemtech Solutions Pvt Ltd as Systems Engineer in 2011 before commencing my Master’s degree in 2013. I obtained my Master’s degree in Embedded System Design from the National Institute of Technology Kurukshetra, India. After completing my Master’s, I joined IBM as Business Intelligence Application Developer in 2015. Later, I moved into academic research at Nanyang Technological University Singapore as Research Associate (Deep Learning and Embedded Systems) in 2018 prior to joining KU Leuven in 2019.
+  
+I earned my Ph.D. in Electrical Engineering from KU Leuven, Belgium, at the COSIC (ES&S Subgroup) under the supervision of Prof. Nele Mentens. My doctoral research specialized in FPGA Design for Network Security, specifically the acceleration of Large Flow Detection algorithms using configurable hardware (FPGA). This work was conducted in collaboration with the Network Security Group at ETH Zurich as part of the joint research project ESCALATE.
+
+I hold a Bachelor’s degree in Electronics & Communication Engineering from Cochin University of Science and Technology, India (2009). Following graduation, I worked as a Lecturer at the College of Engineering Kidangoor (2010-2011) before transitioning to industry as a Systems Engineer at Gemtech Solutions Pvt Ltd (2011-2013). In 2013, I pursued my Master’s degree in Embedded System Design at the National Institute of Technology Kurukshetra, India, completing it in 2015. Afterward, I joined IBM as a Business Intelligence Application Developer (2015-2018). In 2018, I moved into academic research as a Research Associate at the Hardware and Embedded Systems Lab, Nanyang Technological University, Singapore, before commencing my Ph.D. at KU Leuven in 2019.
+
+## Research Interests
+
+- FPGA-based system design
+- Network security and hardware acceleration
+- Probabilistic data structures and approximate computing
+- AI-driven wireless communication and beam management
+- Convolutional Neural Networks on resource-constrained devices
+  
 </p>
-<p style="font-size:100%;text-align:justify;font-family:Times New Roman;">
-My research interests and publications lie in the fields of FPGA-based system design, Network security, Probabilistic data structures, Approximate computing, and Convolutional Neural Networks on resource-constrained devices.
-</p>
+<!-- <p style="font-size:100%;text-align:justify;font-family:Times New Roman;">
+
+</p> -->
 <!-- [My KU Leuven webpage](https://www.esat.kuleuven.be/cosic/people/arish-sateesan/) -->
 <!-- <p style="font-size:100%;text-align:justify;font-family:Times New Roman;">
 <a href="https://www.esat.kuleuven.be/cosic/people/arish-sateesan/" target="_blank">My KU Leuven webpage</a> -->
