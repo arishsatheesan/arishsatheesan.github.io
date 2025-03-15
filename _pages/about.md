@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 <p style="font-size:100%;text-align:justify;font-family:Times New Roman;">
-
-I currently work as a Postdoctoral Researcher at iNETS (Institute for Networked Systems), RWTH Aachen University, Germany. My research centers upon AI-aided beam management on reconfigurable hardware for 6G networks.
 </p>
 <p style="font-size:100%;text-align:justify;font-family:Times New Roman;">
 I am currently a Postdoctoral Researcher at RWTH Aachen University, Germany. My research focuses on AI-aided beam management targeting edge platforms on reconfigurable hardware for 6G networks, bridging the gap between machine learning and real-world deployment for next-generation wireless communication systems.
