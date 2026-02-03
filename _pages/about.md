@@ -9,19 +9,21 @@ redirect_from:
 ---
 
 <p style="font-size:100%;text-align:justify;font-family:Times New Roman;">
-  I am currently a Postdoctoral Researcher at RWTH Aachen University, Germany. My research focuses on AI-aided beam management targeting edge platforms on reconfigurable hardware for 6G networks, bridging the gap between machine learning and real-world deployment for next-generation wireless communication systems.
+  Arish Satheesan is an Assistant Professor in Cybersecurity at Aalborg University, Denmark. His research lies at the intersection of reconfigurable systems, embedded intelligence, and secure hardware, with a strong focus on building trustworthy and high-performance solutions for next-generation edge and networked systems.
 </p>
 <p style="font-size:100%;text-align:justify;font-family:Times New Roman;">
-I earned my Ph.D. in Electrical Engineering from KU Leuven, Belgium, at the COSIC (ES&S Subgroup) under the supervision of Prof. Nele Mentens. My doctoral research specialized in FPGA Design for Network Security, specifically the acceleration of Large Flow Detection algorithms using configurable hardware (FPGA). This work was conducted in collaboration with the Network Security Group at ETH Zurich as part of the joint research project ESCALATE.
+His research aims to build trustworthy and energy-efficient hardware platforms that enable real-time AI inference and security network solutions directly at the network edge. By co-designing algorithms and reconfigurable architectures, he addresses challenges in scalability, latency, and privacy across edge computing, cyber-physical systems, and next-generation communication networks. His work spans high-speed networking, millimeter-wave systems, and resource-constrained embedded devices, with validation on state-of-the-art FPGA platforms.
 </p>
 <p style="font-size:100%;text-align:justify;font-family:Times New Roman;">
-I hold a Bachelor’s degree in Electronics & Communication Engineering from Cochin University of Science and Technology, India. Following graduation, I worked as a Lecturer at the College of Engineering Kidangoor before transitioning to industry as a Systems Engineer at Gemtech Solutions Pvt Ltd. Later, I obtained my Master’s degree in Embedded System Design at the National Institute of Technology Kurukshetra, India. Afterward, I joined IBM as a Business Intelligence Application Developer. In 2018, I moved into academic research as a Research Associate at the Hardware and Embedded Systems Lab, Nanyang Technological University, Singapore, before commencing my Ph.D. at KU Leuven in 2019.
-  
+Prior to joining Aalborg University, Dr. Satheesan held research positions at RWTH Aachen University, KU Leuven, and Nanyang Technological University, where he worked on hardware-accelerated security mechanisms, embedded AI acceleration, and high-throughput network monitoring. His research has been published in premier journals and conferences spanning hardware design, cybersecurity, and networking, and has contributed to several nationally and internationally funded research projects.
+</p>
+<p style="font-size:100%;text-align:justify;font-family:Times New Roman;">
+Arish actively collaborates with academic and industry partners, driving interdisciplinary research that bridges fundamental hardware innovation with real-world deployments. Outside of research, he is passionate about mentoring students and building inclusive communities in engineering and computing.
 </p>
 
-## 📢 Collaborate with Me
+## 📢 Interested in Collaboration?
 
-If you're interested in working together on a research, feel free to reach out!
+I am always open to discussing research collaborations and joint projects in the areas of FPGA-based systems, embedded AI, hardware security, and high-speed networking. Feel free to reach out if you are interested in working together.
 
 📧 [Send Me an Email!](mailto:arish.sateesan@rwth-aachen.de)  
 
@@ -51,6 +53,6 @@ Work address:<br>
     <span itemprop="addressRegion">Germany</span></p>
   </div>
   <span itemprop="telephone"></span>
-  <a href="mailto:arish.sateesan@kuleuven.be" itemprop="email"> </a> -->
+  <a href="mailto:arishs@es.aau.dk" itemprop="email"> </a> -->
 <!--  <a href="https://www.esat.kuleuven.be/cosic/people/arish-sateesan/" itemprop="url"> My home page</a> -->
 
