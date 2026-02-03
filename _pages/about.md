@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p style="font-size:100%;text-align:justify;font-family:Times New Roman;">
-  Arish Satheesan is an Assistant Professor in Cybersecurity at Aalborg University, Denmark. His research lies at the intersection of reconfigurable systems, embedded intelligence, and secure hardware, with a strong focus on building trustworthy and high-performance solutions for next-generation edge and networked systems.
+  Arish Satheesan is an Assistant Professor in Cybersecurity at Aalborg University, Copenhagen, Denmark. His research lies at the intersection of reconfigurable systems, embedded intelligence, and secure hardware, with a strong focus on building trustworthy and high-performance solutions for next-generation edge and networked systems.
 </p>
 <p style="font-size:100%;text-align:justify;font-family:Times New Roman;">
 His research aims to build trustworthy and energy-efficient hardware platforms that enable real-time AI inference and security network solutions directly at the network edge. By co-designing algorithms and reconfigurable architectures, he addresses challenges in scalability, latency, and privacy across edge computing, cyber-physical systems, and next-generation communication networks. His work spans high-speed networking, millimeter-wave systems, and resource-constrained embedded devices, with validation on state-of-the-art FPGA platforms.
