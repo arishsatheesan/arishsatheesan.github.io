@@ -25,7 +25,7 @@ Arish actively collaborates with academic and industry partners, driving interdi
 
 I am always open to discussing research collaborations and joint projects in the areas of FPGA-based systems, embedded AI, hardware security, and high-speed networking. Feel free to reach out if you are interested in working together.
 
-📧 [Send Me an Email!](mailto:arish.sateesan@rwth-aachen.de)  
+📧 [Send Me an Email!](mailto:arishs@es.aau.dk?subject=Research%20Collaboration)  
 
 
 <!-- <p style="font-size:100%;text-align:justify;font-family:Times New Roman;">
