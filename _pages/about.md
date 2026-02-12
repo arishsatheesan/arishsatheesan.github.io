@@ -18,7 +18,7 @@ His research aims to build trustworthy and energy-efficient hardware platforms t
 Prior to joining Aalborg University, Dr. Sateesan held research positions at RWTH Aachen University, KU Leuven, and Nanyang Technological University, where he worked on hardware-accelerated security mechanisms, embedded AI acceleration, and high-throughput network monitoring. His research has been published in premier journals and conferences spanning hardware design, cybersecurity, and networking, and has contributed to multiple nationally and internationally funded research projects. Before transitioning fully into academia, he also gained industry experience, including work at IBM and other technology-driven companies, where he contributed to data analytics, real-world embedded systems and hardware design projects.
 </p>
 <p style="font-size:100%;text-align:justify;font-family:Times New Roman;">
-Arish actively collaborates with academic and industry partners, driving interdisciplinary research that bridges fundamental hardware innovation with real-world deployments. Outside of research, he is passionate about mentoring students and building inclusive communities in engineering and computing.
+Arish actively collaborates with academic partners and interdisciplinary research teams, advancing hardware innovation with a strong focus on real-world applicability. Outside of research, he is passionate about mentoring students and building inclusive communities in engineering and computing.
 </p>
 
 ## 📢 Interested in Collaboration?
